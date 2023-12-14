@@ -1,12 +1,10 @@
 package com.samplePrograms.Strings;
 
-import java.util.List;
-
 public class Program1 {
 
     public static void reverseString(String str){
 
-       String words[]=str.split(" ");
+       String[] words =str.split(" ");
        String reverseString = "";
        for (int i=0;i<= words.length-1;i++){
            String word = words[i];
