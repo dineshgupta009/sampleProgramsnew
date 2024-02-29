@@ -1,6 +1,6 @@
 package com.samplePrograms.Pattens.Star;
 
-import java.util.Scanner;
+
 
 public class Patten1 {
     //  Right Triangle Star Pattern

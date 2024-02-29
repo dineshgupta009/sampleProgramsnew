@@ -22,7 +22,7 @@ public class Patten4 {
                 System.out.print("  ");// when we change no of space we would get Different pattens
             }
             for (int k = 0; k <= i; k++) {
-                System.out.print("* ");// when we change no of space we would get Different pattens
+                System.out.print(k+ " ");// when we change no of space we would get Different pattens
             }
             System.out.println();
         }
